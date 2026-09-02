@@ -1,0 +1,4 @@
+split,n_patches,n_scenes,n_oil_patches,n_no_oil_patches,n_objects,n_coast,n_water
+train,2565,826,949,1616,2226,510,2055
+val,525,177,201,324,513,93,432
+test,565,178,215,350,486,123,442

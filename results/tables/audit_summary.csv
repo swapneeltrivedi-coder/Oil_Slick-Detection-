@@ -1,0 +1,10 @@
+metric,value
+n_tab_rows_deduped_to_images,3655
+n_images_on_disk,3655
+n_xml_on_disk,1365
+n_images_checked,3655
+discovered_classes,oil
+n_objects_total,3225
+class_count[oil],3225
+n_errors,0
+n_warnings,0

@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+
+# Raw dataset - DO NOT COMMIT
+images/
+annotations/
+DARTIS_2019.tab
+Pangaea README.pdf
+
+# Generated YOLO image links/data
+processed/yolo/images/
+
+# Model weights / experiments
+experiments/
+*.pt
+runs/
+
+# Generated figures / visual audits
+results/figures/
+visual_audit/
+
+# Cache/temp
+.cache/
+
+# Generated YOLO labels - reproducible from annotations
+processed/yolo/labels/
